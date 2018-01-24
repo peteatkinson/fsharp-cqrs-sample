@@ -1,0 +1,6 @@
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\bin\Debug\netcoreapp2.0\Featurify.Domain.deps.json
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\bin\Debug\netcoreapp2.0\Featurify.Domain.dll
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\bin\Debug\netcoreapp2.0\Featurify.Domain.pdb
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\obj\Debug\netcoreapp2.0\Featurify.Domain.dll
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\obj\Debug\netcoreapp2.0\Featurify.Domain.pdb
+C:\Users\atkinson_p\Documents\Visual Studio 2017\Projects\Featurify\Featurify.Domain\obj\Debug\netcoreapp2.0\Featurify.Domain.fsprojResolveAssemblyReference.cache

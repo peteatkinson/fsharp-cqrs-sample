@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Featurify", "event-store\Featurify.fsproj", "{7A1231DB-CE60-46A4-ACB8-6934F0293FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1231DB-CE60-46A4-ACB8-6934F0293FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1231DB-CE60-46A4-ACB8-6934F0293FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1231DB-CE60-46A4-ACB8-6934F0293FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1231DB-CE60-46A4-ACB8-6934F0293FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3900C7D6-3C99-4A1D-A73A-DF55D38566ED}
+	EndGlobalSection
+EndGlobal

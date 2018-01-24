@@ -1,0 +1,8 @@
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\bin\Debug\netcoreapp2.0\event-store.deps.json
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\bin\Debug\netcoreapp2.0\event-store.runtimeconfig.json
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\bin\Debug\netcoreapp2.0\event-store.runtimeconfig.dev.json
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\bin\Debug\netcoreapp2.0\event-store.dll
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\obj\Debug\netcoreapp2.0\event-store.fsprojResolveAssemblyReference.cache
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\bin\Debug\netcoreapp2.0\event-store.pdb
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\obj\Debug\netcoreapp2.0\event-store.dll
+c:\users\atkinson_p\documents\visual studio 2017\Projects\event-store\event-store\obj\Debug\netcoreapp2.0\event-store.pdb

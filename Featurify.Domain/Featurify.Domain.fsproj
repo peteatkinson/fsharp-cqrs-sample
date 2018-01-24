@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <Compile Include="Models.fs" />
+	<Compile Include="Events.fs" />
+    <Compile Include="EventStore.fs" />
+    <Compile Include="Serializer.fs" />
+    <Compile Include="Aggregates.fs" />
+    <Compile Include="Handlers.fs" />
+  
+    
+    <Compile Include="Library.fs" />
+  
+    
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventStore.Client" Version="4.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+</Project>
